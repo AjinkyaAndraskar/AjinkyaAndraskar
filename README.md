@@ -1,9 +1,13 @@
-### Hi there 👋, my name is Ajinkya
-#### Welcome to my Github Profile
+<div>
+  <img align="right" alt="coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
+  
+  ### Hi there 👋, my name is Ajinkya
+  #### Welcome to my Github Profile
 
-<img align="right" alt="coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
+  As an aspiring Data Analyst, I am equipped with a solid foundation in data management and analysis. My focus is on identifying trends and patterns within extensive and intricate datasets, using the acquired knowledge to contribute to business growth. Proficient in various data analysis tools and techniques, including data visualization, statistical analysis, data mining, and creating impactful dashboards,<br> I am driven by the desire to transform data into valuable insights and solutions. Continuously seeking innovative approaches, I am dedicated to empowering data-driven decision-making processes.
+</div>
 
-As an aspiring Data Analyst, I am equipped with a solid foundation <br> in data management and analysis. My focus is on identifying trends <br> and patterns within extensive and intricate datasets, using the acquired knowledge to contribute to business growth. Proficient in various data analysis tools and techniques, including data visualization, statistical analysis, data mining, and creating impactful dashboards, <br> I am driven by the desire to transform data into valuable insights <br> and solutions. Continuously seeking innovative approaches, I am dedicated to empowering data-driven decision-making processes.
+
 
 # 💫 About Me:
 👀 I'm passionate about Data Analytics and Business Intelligence.<br>
