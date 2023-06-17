@@ -1,5 +1,5 @@
 <div>
-  <img align="right" alt="coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
+  <img align="right" alt="coding" width="300" src="https://www.caxsol.com/assets/img/data-analysis.gif">
   
   ### Hi there 👋, my name is Ajinkya
   #### Welcome to my Github Profile
