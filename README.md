@@ -21,11 +21,13 @@
 
 # 💻 Skills: 
 * Power BI
+* Excel
 * SQL
 * Tableau
 * Python
 * Data analysis
-* Business analysis 
+* Business analysis
+  
 
 ## 🌐 Socials:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ajinkya-andraskar-53637b154///)
